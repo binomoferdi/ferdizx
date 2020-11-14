@@ -30,11 +30,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node index"
+    "test": "node index"https://github.com/benisadewa/ferdizx"
+  },
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benisadewa/reuzsc"
+    "url": "git+https://github.com/benisadewa/ferdizx"
   },
   "keywords": [
     "k"
@@ -42,7 +43,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benisadewa/reuzsc/issues"
+    "url": "https://github.com/benisadewa/ferdizx/issues"
   },
-  "homepage": "https://github.com/benisadewa/reuzsc#readme"
+  "homepage": "https://github.com/benisadewa/ferdizx#readme"
 }
